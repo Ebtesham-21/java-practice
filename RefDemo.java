@@ -19,8 +19,7 @@ class RefDemo {
          * the following statement is invalid because plainbox does not define a
          * weight number.
          */
-        //
-
+        // System.out.println("Weight of plainbox is " + plainbox.weight);
     }
 
 }
